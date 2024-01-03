@@ -14,12 +14,14 @@ body {
   border-radius: 15px;
   background-color: #f1acbf;
   padding: 10px 20px;
+  border-color: #f1acbf;
 }
 #btn:hover {
-  background-color: rgb(179, 102, 195);
+  background-color: rgb(202, 126, 197);
   box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
     0 17px 50px 0 rgba(0, 0, 0, 0.19);
   padding: 12px 28px;
+  border-color: #f1acbf;
 }
 .advice-box {
   background-color: #facdda;

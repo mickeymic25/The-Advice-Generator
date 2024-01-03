@@ -19,6 +19,6 @@ document.addEventListener("DOMContentLoaded", () => {
   getAdvice();
 });
 btn.addEventListener("click", () => {
-  //alert("Button pressed, please wait for result..");
+  alert("Button pressed, please wait for result..");
   getAdvice();
 });
